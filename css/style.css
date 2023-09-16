@@ -1,3 +1,107 @@
-a :hover{
+* {
+    margin: 0%;
+}
+
+/* Header */
+nav a { 
+    font-style: normal ; 
+    text-decoration: none; 
+    font-family: 'Poppins', sans-serif; 
+    font-size: 20px;
+    color: #C0AA75;
+    display: inline-flex;
+}
+
+#logocontainer{
+    width: 20%;
+}
+
+#Homelogo{
+    width: 160px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+}
+
+nav {
+   display: flex;
+   align-items: center;
+}
+
+header{ 
+    background-color: #213331;
+    padding: 5px;
+    height: 95px;
+}
+
+.menu{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+.menu > a {
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+    display: inline-flex;
+}
+
+body { 
+    background-color: #FAFBF4;
+}
+
+
+h1{
+    font-family: "gill-sans-nova", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color:#A18E61;
+    font-size: 30px;
+    margin-top: 80px;
+    margin-left: 70px;
+
+}
+
+
+p {
+    font-family: "gill-sans-nova", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:#60554F;
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+#gif {
+    padding-left: 10em;
+    padding-right: 10em;
     
 }
+
+
+/* Footer */
+footer {
+    background-color: #213331;
+    padding: 20px;
+
+}
+
+ul, li a {
+    list-style-type: none;
+    text-decoration: none;
+    color: #C0AA75;
+    font-style: normal ;  
+    font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+    font-style: normal ; 
+    text-decoration: none; 
+    font-family: 'Poppins', sans-serif; 
+    color: #C0AA75;
+}
+
+
+
+
