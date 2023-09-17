@@ -97,6 +97,7 @@ p {
 
 .imgcontainer {
     margin-left: 5em;
+    min-width: 180px;
 }
 
 .imgcontainer > img{
