@@ -126,14 +126,14 @@ p {
 }
 
 /*About*/
-.babyimg {
+.baby {
     margin-right: 5%;
     width:200%
 }
 
-.portraitimg {
+.sfsu {
     margin-right: 5%;
-    width:100%;
+    width:130%;
     order: -1;
 }
 
@@ -142,7 +142,7 @@ p {
     margin-right: 30px;
 }
 
-.sistersimg{
+.portrait{
     margin-right: 5%;
     width:170%
 }
@@ -192,7 +192,7 @@ p > a:hover{
 }
 
 .socialmedia {
-    width: 99%;
+    width: 130%;
 }
 
 .baldurgate{
