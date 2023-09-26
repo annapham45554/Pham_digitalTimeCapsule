@@ -65,12 +65,16 @@ header{
 
 body { 
     background-color: #FAFBF4;
+    background-image: url(../img/Bamboo.png);
+    background-repeat: no-repeat;
+    background-position-x: -270px;
+    background-size: 50em;
 }
 
 main{
     margin-bottom: 5%;
-    padding-left: 3em;
-    padding-right: 3em;
+    padding-left: 11em;
+    padding-right: 11em;
 }
 
 h1{
@@ -101,17 +105,19 @@ p {
 .imgcontainer {
     margin-left: 5em;
     min-width: 180px;
+
 }
 
 .imgcontainer > img{
     height: 100%;
     width: 100%;
+    
 }
 
 #gifcontainer {
-    margin-left: 10em;
+    margin-left: 5em;
     display: block;
-    width: 80%;
+    width: 90%;
     margin-top: 5%;
 }
 
@@ -128,12 +134,12 @@ p {
 /*About*/
 .baby {
     margin-right: 5%;
-    width:200%
+    width:320%;
 }
 
 .sfsu {
     margin-right: 5%;
-    width:130%;
+    width:200%;
     order: -1;
 }
 
@@ -144,25 +150,25 @@ p {
 
 .portrait{
     margin-right: 5%;
-    width:170%
+    width:300%
 }
 
 
 /*Interest*/
 .art {
     margin-right: 5%;
-    width:150%
+    width:210%
 }
 
 .music{
     margin-right: 5%;
-    width:80%;
+    width:140%;
     order: -1;
 }
 
 .game{
     margin-right: 5%;
-    width:160%
+    width:210%
 }
 
 p > a{
@@ -177,30 +183,21 @@ p > a:hover{
 
 
 /*Activity*/
-#hobbies{
-    margin-top: 2.5%;
-    padding-right: 5%;
-}
-
-.activityimg{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
-    margin-right: 5%;
-    margin-top: 2.5%;
-}
 
 .socialmedia {
-    width: 130%;
+    margin-right: 5%;
+    width:230%;
+    order: -1;
 }
 
 .baldurgate{
-    width: 118%;
+    margin-right: 5%;
+    width:110%
 }
 
 .taylor{
-    width: 96%;
+    margin-right: 5%;
+    width:150%
 }
 
 /* Footer */
