@@ -32,6 +32,7 @@ GIF animation was executed in Adobe Photoshop, and the illustration for the GIF 
 <li>:hover</li>
 <li>position: sticky</li>
 <li>background image</li>
+</ul>
 
 ## Acknowledgment
 The website is still flawed and there are a few things that need to be improved or added. However, it is a good start for the first project.  
