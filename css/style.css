@@ -96,6 +96,7 @@ p {
     color:#60554F;
     font-size: 20px;
     margin-left: 70px;
+    text-align: justify;
 }
 
 #intro {
@@ -105,13 +106,12 @@ p {
 .imgcontainer {
     margin-left: 5em;
     min-width: 180px;
-
+    
 }
 
 .imgcontainer > img{
     height: 100%;
     width: 100%;
-    
 }
 
 #gifcontainer {
@@ -129,6 +129,7 @@ p {
 .row{
     display: flex;
     margin-top: 30px;
+
 }
 
 /*About*/
@@ -138,19 +139,14 @@ p {
 }
 
 .sfsu {
-    margin-right: 5%;
+    margin-right: 1.5%;
     width:200%;
     order: -1;
 }
 
-#pright{
-    margin-left: 0;
-    margin-right: 30px;
-}
-
 .portrait{
     margin-right: 5%;
-    width:300%
+    width:280%
 }
 
 
@@ -161,7 +157,7 @@ p {
 }
 
 .music{
-    margin-right: 5%;
+    margin-right: 1.5%;
     width:140%;
     order: -1;
 }
@@ -184,9 +180,14 @@ p > a:hover{
 
 /*Activity*/
 
-.socialmedia {
+.taylor{
     margin-right: 5%;
-    width:230%;
+    width:150%
+}
+
+.socialmedia {
+    margin-right: 1.5%;
+    width:250%;
     order: -1;
 }
 
@@ -195,10 +196,6 @@ p > a:hover{
     width:110%
 }
 
-.taylor{
-    margin-right: 5%;
-    width:150%
-}
 
 /* Footer */
 footer {

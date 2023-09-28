@@ -34,6 +34,10 @@ GIF animation was executed in Adobe Photoshop, and the illustration for the GIF 
 <li>background image</li>
 </ul>
 
-
 ## Acknowledgment
-The website is still flawed and there are a few things that need to be improved or added. However, it is a good start for the first project.  
+Sources that helps me coding in CSS:
+<ul>
+<li><a href="https://www.tutorialspoint.com/what-is-greater-than-sign-gt-selector-in-css">Greater-than sign</a></li> 
+<li><a href="https://www.w3schools.com/cssref/sel_hover.php">Hover effect</a></li>
+<li><a href="https://www.w3schools.com/cssref/css3_pr_mediaquery.php">@media</a></li>
+<li><a href="https://sumudusiriwardana.hashnode.dev/flexbox-cheat-sheet">flexbox</a></li>
